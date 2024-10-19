@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DEPI/Advanced-Text-to-Image-Generation-main/mlruns/517200003361571960/7c5b3c1a56e3449d89144b311bde382e/artifacts
+end_time: 1729200397238
+entry_point_name: ''
+experiment_id: '517200003361571960'
+lifecycle_stage: active
+run_id: 7c5b3c1a56e3449d89144b311bde382e
+run_name: righteous-bird-40
+run_uuid: 7c5b3c1a56e3449d89144b311bde382e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729200383550
+status: 3
+tags: []
+user_id: May

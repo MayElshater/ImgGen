@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/DEPI/Advanced-Text-to-Image-Generation-main/mlruns/284230125888441867/399f27e0b7b04b5998900bde600d1991/artifacts
+deleted_time: 1729086258550
+end_time: 1729026922994
+entry_point_name: ''
+experiment_id: '284230125888441867'
+lifecycle_stage: deleted
+run_id: 399f27e0b7b04b5998900bde600d1991
+run_name: stylish-dog-758
+run_uuid: 399f27e0b7b04b5998900bde600d1991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729026920680
+status: 3
+tags: []
+user_id: May

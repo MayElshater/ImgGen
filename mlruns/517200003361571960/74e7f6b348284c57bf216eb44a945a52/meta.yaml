@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DEPI/Advanced-Text-to-Image-Generation-main/mlruns/517200003361571960/74e7f6b348284c57bf216eb44a945a52/artifacts
+end_time: 1729200302370
+entry_point_name: ''
+experiment_id: '517200003361571960'
+lifecycle_stage: active
+run_id: 74e7f6b348284c57bf216eb44a945a52
+run_name: abundant-tern-352
+run_uuid: 74e7f6b348284c57bf216eb44a945a52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729200292555
+status: 3
+tags: []
+user_id: May

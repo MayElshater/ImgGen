@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DEPI/Advanced-Text-to-Image-Generation-main/mlruns/517200003361571960/72b5b4b0cad547d4be9733640034589d/artifacts
+end_time: 1729089468177
+entry_point_name: ''
+experiment_id: '517200003361571960'
+lifecycle_stage: active
+run_id: 72b5b4b0cad547d4be9733640034589d
+run_name: fun-worm-853
+run_uuid: 72b5b4b0cad547d4be9733640034589d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729089460831
+status: 3
+tags: []
+user_id: May

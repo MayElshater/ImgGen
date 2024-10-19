@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DEPI/Advanced-Text-to-Image-Generation-main/mlruns/517200003361571960/e9facb13736e4acaa654b4ff17a3389e/artifacts
+end_time: 1729091649933
+entry_point_name: ''
+experiment_id: '517200003361571960'
+lifecycle_stage: active
+run_id: e9facb13736e4acaa654b4ff17a3389e
+run_name: brawny-fish-326
+run_uuid: e9facb13736e4acaa654b4ff17a3389e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729091641677
+status: 3
+tags: []
+user_id: May

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DEPI/Advanced-Text-to-Image-Generation-main/mlruns/517200003361571960/b447ba6c1c204b11a801641e0d93f0f6/artifacts
+end_time: 1729091763069
+entry_point_name: ''
+experiment_id: '517200003361571960'
+lifecycle_stage: active
+run_id: b447ba6c1c204b11a801641e0d93f0f6
+run_name: placid-bee-198
+run_uuid: b447ba6c1c204b11a801641e0d93f0f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729091755950
+status: 3
+tags: []
+user_id: May

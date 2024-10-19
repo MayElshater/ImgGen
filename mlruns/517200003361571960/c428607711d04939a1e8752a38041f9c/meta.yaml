@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DEPI/Advanced-Text-to-Image-Generation-main/mlruns/517200003361571960/c428607711d04939a1e8752a38041f9c/artifacts
+end_time: 1729192284312
+entry_point_name: ''
+experiment_id: '517200003361571960'
+lifecycle_stage: active
+run_id: c428607711d04939a1e8752a38041f9c
+run_name: amusing-wren-202
+run_uuid: c428607711d04939a1e8752a38041f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729192269500
+status: 3
+tags: []
+user_id: May

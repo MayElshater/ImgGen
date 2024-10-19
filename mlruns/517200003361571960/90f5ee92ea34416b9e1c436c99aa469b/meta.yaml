@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/DEPI/Advanced-Text-to-Image-Generation-main/mlruns/517200003361571960/90f5ee92ea34416b9e1c436c99aa469b/artifacts
+end_time: 1729089370566
+entry_point_name: ''
+experiment_id: '517200003361571960'
+lifecycle_stage: active
+run_id: 90f5ee92ea34416b9e1c436c99aa469b
+run_name: traveling-shad-111
+run_uuid: 90f5ee92ea34416b9e1c436c99aa469b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729089361840
+status: 3
+tags: []
+user_id: May

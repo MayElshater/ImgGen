@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/DEPI/Advanced-Text-to-Image-Generation-main/mlruns/284230125888441867/7f3adc5396554342a6cd49dfbd60cead/artifacts
+deleted_time: 1729086258550
+end_time: 1729032567038
+entry_point_name: ''
+experiment_id: '284230125888441867'
+lifecycle_stage: deleted
+run_id: 7f3adc5396554342a6cd49dfbd60cead
+run_name: bemused-quail-389
+run_uuid: 7f3adc5396554342a6cd49dfbd60cead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729032564430
+status: 3
+tags: []
+user_id: May

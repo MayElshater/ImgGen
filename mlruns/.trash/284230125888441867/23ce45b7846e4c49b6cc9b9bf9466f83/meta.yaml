@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/DEPI/Advanced-Text-to-Image-Generation-main/mlruns/284230125888441867/23ce45b7846e4c49b6cc9b9bf9466f83/artifacts
+deleted_time: 1729086258550
+end_time: 1729028973440
+entry_point_name: ''
+experiment_id: '284230125888441867'
+lifecycle_stage: deleted
+run_id: 23ce45b7846e4c49b6cc9b9bf9466f83
+run_name: abundant-chimp-638
+run_uuid: 23ce45b7846e4c49b6cc9b9bf9466f83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729028970963
+status: 3
+tags: []
+user_id: May
